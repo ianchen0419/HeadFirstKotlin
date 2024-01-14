@@ -9,3 +9,9 @@ REPL（Read-Eval-Print Loop）能夠測試主程式以外的Kotlin片段
 1. 開啟IntelliJ IDEA
 2. 上方工具列選擇：「Tool」→「Kotlin」→「Kotlin REPL」
 3. 畫面底部跳出窗格，可以執行片段程式碼
+
+
+## `var`與`val`
+
+- `var`：可改變
+- `val`：不可改變
